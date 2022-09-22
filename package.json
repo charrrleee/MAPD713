@@ -1,0 +1,31 @@
+{
+  "name": "mapd713",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "src/app.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "mongoose": "^6.6.1"
+  },
+  "devDependencies": {
+    "mongoose": "^6.6.1"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charrrleee/MAPD713.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charrrleee/MAPD713/issues"
+  },
+  "homepage": "https://github.com/charrrleee/MAPD713#readme"
+}
